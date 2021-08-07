@@ -1,0 +1,6 @@
+[user]
+        name = David Hewitt
+        email = davidmhewitt@gmail.com
+        signingKey = 2E73B6E36C9405BB
+[commit]
+        gpgSign = true
